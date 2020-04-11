@@ -1,0 +1,2 @@
+# Implementation-of-local-planning-for-UAV
+I created a desktop application. It allows for creating maps with static obstacles. Then the program can check a robot's trajectory depending on the chosen algorithm (for instance artificial potential fields) or parameters (maks speed, the distance needed to notice obstacle). There is a possibility to have more than one UAV on the simulation (they would try to avoid each other).  The application is in app1.mlapp but it needs Matlab to be opened. The code from that file was copied to the rest of files with additional comments.
